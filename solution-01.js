@@ -1,4 +1,4 @@
-var debug = prompt("Debug draw process?", "false");
+var debug = prompt("Debug draw process? (true or false)", "false");
 var timer = Date.now();
 if ((debug) == "true") debugger;
 drawHead();
