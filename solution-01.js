@@ -1,6 +1,6 @@
 drawHead();
 drawBody();
-drawLeftHend();
+drawLeftHand();
 drawRightHand();
 drawLeftLeg();
 drawRightLeg();
